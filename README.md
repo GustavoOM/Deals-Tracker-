@@ -1,6 +1,6 @@
 # Game Deals - Taqtile Challenge
 
-<img src="[URL_da_Imagem](https://media.licdn.com/dms/image/v2/D5622AQECCIz4DylH5A/feedshare-shrink_800/B56ZWFzYgdHEAk-/0/1741706595122?e=1744848000&v=beta&t=GLaLv8P9IN45py3YaBx3qyGDxetXLQ9vzgr5gaa9Ufw)" alt="Texto Alternativo">
+![Texto Alternativo](https://i.imgur.com/8ogZOq3.png)
 
 ## About
 
