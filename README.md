@@ -1,5 +1,7 @@
 # Game Deals - Taqtile Challenge
 
+![Texto Alternativo]([URL_da_Imagem](https://media.licdn.com/dms/image/v2/D5622AQECCIz4DylH5A/feedshare-shrink_800/B56ZWFzYgdHEAk-/0/1741706595122?e=1744848000&v=beta&t=GLaLv8P9IN45py3YaBx3qyGDxetXLQ9vzgr5gaa9Ufw))
+
 ## About
 
 This project is an simplified Steam game deal tracker. Your task is to implement this project using data from a Rest API.
