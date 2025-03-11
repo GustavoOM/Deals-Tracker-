@@ -1,0 +1,14 @@
+https://reactnative.dev/docs/flatlist?language=javascript
+https://github.com/spring-attic/tut-react-and-spring-data-rest/issues/85
+https://callstack.github.io/react-native-paper/docs/components/Card/
+https://www.deepseek.com/
+https://www.youtube.com/watch?v=BKZQz-uYo4c
+https://developer.mozilla.org/en-US/docs/Web/CSS/align-items
+https://pt-br.legacy.reactjs.org/docs/conditional-rendering.html
+https://pt.stackoverflow.com/questions/29318/javascript-gerando-float-com-v%C3%A1rias-casas-decimais
+https://stackoverflow.com/questions/44739331/change-react-native-textinputs-placeholder-color
+https://stackoverflow.com/questions/35341502/how-to-use-border-radius-only-for-1-corner-react-native
+
+Funções adicionais:
+- Mostrar valor com desconto apenas quando este for diferente do original
+- Nova tela com mais informações do jogo
